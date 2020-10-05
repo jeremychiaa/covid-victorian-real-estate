@@ -1,0 +1,968 @@
+Suburb,LGA_Name
+Alberton,Wellington
+Allansford,Warrnambool
+Avoca,Pyrenees
+Avenel,Strathbogie
+Warrandyte,Manningham
+Belmont,Greater
+Bacchus Marsh,Moorabool
+Ballarat,Ballarat
+Wodonga,Wodonga
+Berwick,Casey
+Beaufort,Pyrenees
+Cheltenham,Bayside
+Cudgee,Moyne
+Newport,Hobsons
+Cavendish,Southern
+Colac,Colac-Otway
+Castlemaine,Mount
+Campbells Creek,Mount
+Creswick,Hepburn
+California Gully,Greater
+St Andrews,Nillumbik
+Warrnambool,Warrnambool
+Dromana,Mornington
+"Westfield, Doncaster",Manningham
+Echuca,Campaspe
+Eltham,Nillumbik
+Eaglehawk,Greater
+Elphinstone,Mount
+Hallam,Casey
+Flemington,Moonee
+West Footscray,Maribyrnong
+Gisborne,Macedon
+Sandringham,Bayside
+Bright,Alpine
+Grovedale,Greater
+Hawthorn,Boroondara
+Heidelberg,Banyule
+Hamilton,Southern
+Heathcote,Greater
+Highton,Greater
+Huntly,Greater
+Bellbrae,Surf
+Chiltern,Indigo
+Kyneton,Macedon
+Romsey,Macedon
+Shelford,Golden
+Lockwood South,Greater
+Marong,Greater
+Mount Macedon,Macedon
+Mount Clear,Ballarat
+Melton,Melton
+Fitzroy,Yarra
+Newstead,Mount
+Newlyn,Hepburn
+Glen Waverley,Whitehorse
+New Gisborne,Macedon
+Beeac,Colac-Otway
+Essendon,Moonee
+Coburg,Moreland
+Penshurst,Southern
+Myrniong,Moorabool
+Mernda,Whittlesea
+Portland,Glenelg
+Stawell,Northern
+Rutherglen,Indigo
+Riddells Creek,Macedon
+Rokewood,Golden
+Geelong East,Greater
+Sale,Wellington
+Skipton,Corangamite
+South Yarra,Melbourne
+Stratford,Wellington
+Taradale,Mount
+Koroit,Moyne
+Tylden,Macedon
+Thomastown,Whittlesea
+Wangaratta,Wangaratta
+Wahgunyah,Indigo
+Woodend,Macedon
+Woodford,Warrnambool
+Werribee,Wyndham
+Beechworth,Indigo
+Wallan,Mitchell
+Woolsthorpe,Moyne
+Yandoit,Hepburn
+Yarram,Wellington
+Lake Wendouree,Ballarat
+Yea,Murrindindi
+Lancefield,Macedon
+Coimadai,Moorabool
+Birregurra,Colac-Otway
+Clayton,Monash
+Milawa,Wangaratta
+Lockwood,Greater
+Bealiba,Central
+Bairnsdale,East
+Gordon,Moorabool
+Hepburn,Hepburn
+Lara Lake,Greater
+Rosedale,Wellington
+Rochester,Campaspe
+Ararat,Ararat
+Jamieson,Mansfield
+Preston,Darebin
+Omeo,East
+Harrietville,Alpine
+Mordialloc,Kingston
+Healesville,Yarra
+Lake Bolac,Ararat
+Toongabbie,Latrobe
+Waubra,Pyrenees
+Great Western,Northern
+Maffra,Wellington
+Broken Creek,Benalla
+Lal Lal,Moorabool
+Cobden,Corangamite
+St Leonards,Greater
+Lilydale,Yarra
+Bendigo,Greater
+Darraweit Guim,Macedon
+Linton,Golden
+Invermay,Ballarat
+Mitta Mitta,Towong
+Camberwell,Boroondara
+Greenvale,Hume
+Alexandra,Murrindindi
+Bannockburn,Golden
+Doreen,Nillumbik
+Talbot,Central
+Yarra Glen,Yarra
+Elmhurst,Ararat
+Kangaroo Flat,Greater
+Westmeadows,Hume
+Sunbury,Hume
+Diamond Creek,Nillumbik
+Axedale,Greater
+Vermont,Whitehorse
+Tarnagulla,Loddon
+Balwyn,Boroondara
+Scoresby,Knox
+Carisbrook,Central
+Wandin North,Yarra
+Coldstream,Yarra
+Dartmoor,Glenelg
+Mickleham,Hume
+Inglewood,Loddon
+Chewton,Mount
+Bolinda,Macedon
+Napoleons,Golden
+Kew,Boroondara
+Haddon,Golden
+Panmure,Moyne
+Sorrento,Mornington
+Alfredton,Ballarat
+Bridgewater,Loddon
+Hastings,Mornington
+Yackandandah,Indigo
+Nagambie,Strathbogie
+Heyfield,Wellington
+Moorabbin,Kingston
+Mansfield,Mansfield
+Indigo Valley,Indigo
+Briagolong,Wellington
+Lindenow,East
+Broadford,Mitchell
+Murchison,Greater
+Panton Hill,Nillumbik
+Glen Park,Moorabool
+Concongella,Northern
+Bruthen,East
+Swan Hill,Swan
+Porepunkah,Alpine
+Leopold,Greater
+Inverleigh,Golden
+Glen Iris,Boroondara
+Trawalla,Pyrenees
+Bendigo Dc,Greater
+Sebastopol,Ballarat
+Woodside,Wellington
+Noorat,Corangamite
+Albert Park,Port
+Williamstown,Hobsons
+Rye,Mornington
+Queenscliff,Queenscliffe
+Portland North,Glenelg
+Timor,Central
+Apsley,West
+Strathfieldsaye,Greater
+Carrum Downs,Frankston
+Tooborac,Mitchell
+Carlton North,Yarra
+Maldon,Mount
+Woori Yallock,Yarra
+Moyston,Ararat
+Buninyong,Ballarat
+Marysville,Murrindindi
+Langley,Mount
+Wandong,Mitchell
+Cowes,Bass
+Bullarto,Hepburn
+Lismore,Corangamite
+Lower Plenty,Banyule
+Golden Square,Greater
+Bolwarra,Glenelg
+Navarre,Northern
+Warracknabeal,Yarriambiack
+Moyhu,Wangaratta
+Natte Yallock,Pyrenees
+Clifton Hill,Yarra
+Christmas Hills,Nillumbik
+Tallangatta,Towong
+Kialla,Greater
+Mount Eliza,Mornington
+San Remo,Bass
+Dimboola,Hindmarsh
+Whorouly,Wangaratta
+Merrijig,Mansfield
+Lethbridge,Golden
+Oxley,Wangaratta
+Northcote,Darebin
+North Melbourne,Melbourne
+Dandenong,Greater
+Malmsbury,Macedon
+Williamstown North,Hobsons
+Kerang,Gannawarra
+Drouin,Baw
+Meredith,Golden
+Edi Upper,Wangaratta
+Mooroopna,Greater
+Cairnlea,Brimbank
+Ballan,Moorabool
+Tatura,Greater
+Toolamba,Greater
+Osbornes Flat,Indigo
+Frankston East Lpo,Frankston
+Donald,Buloke
+Beveridge,Mitchell
+St Kilda,Port
+Cape Clear,Golden
+Warburton,Yarra
+Tallarook,Mitchell
+Barnawartha,Indigo
+Fitzroy North,Yarra
+Geelong West,Greater
+Tooradin,Casey
+Elmore,Greater
+Dookie,Greater
+Brighton,Bayside
+Natimuk,Horsham
+Murtoa,Yarriambiack
+Big Hill,Greater
+Clunes,Hepburn
+Marnoo,Northern
+Ardmona,Greater
+Kilmore,Mitchell
+Macarthur,Moyne
+Barwon Heads,Greater
+Keilor,Brimbank
+Dunolly,Central
+Springhurst,Wangaratta
+Dixons Creek,Yarra
+Trentham,Hepburn
+Warrenheip,Ballarat
+Maiden Gully,Greater
+Rupanyup,Yarriambiack
+Goornong,Greater
+Oakleigh,Monash
+Ceres,Greater
+Malvern,Stonnington
+Daylesford,Hepburn
+Swan Reach,East
+Amphitheatre,Pyrenees
+Deans Marsh,Surf
+Drysdale,Greater
+St Arnaud,Northern
+Nullawarre,Moyne
+Macedon,Macedon
+Arthurs Creek,Nillumbik
+Buxton,Murrindindi
+Moonambel,Pyrenees
+Baringhup,Mount
+Longford,Wellington
+Harkaway,Casey
+Balnarring,Mornington
+Londrigan Via Wangaratta,Wangaratta
+Euroa,Strathbogie
+Pyramid Hill,Loddon
+Shepparton East,Greater
+Nicholson,East
+Kialla West,Greater
+Miners Rest,Ballarat
+Glenrowan,Wangaratta
+Devenish,Benalla
+Undera,Greater
+Dederang,Alpine
+"Axe Creek, Via Strathfieldsaye",Greater
+Silvan,Yarra
+Wendouree,Ballarat
+Lancaster,Campaspe
+Raywood,Greater
+Drummond,Hepburn
+Puckapunyal,Mitchell
+Landsborough,Pyrenees
+Lysterfield,Knox
+Winton,Benalla
+Merrigum,Greater
+Bethanga,Towong
+Abbotsford,Yarra
+Newtown,Greater
+Windsor,Stonnington
+Narre Warren North,Casey
+Buchan,East
+Anakie,Greater
+Moolap,Greater
+Footscray,Maribyrnong
+Newham,Macedon
+Mill Park,Whittlesea
+White Hills,Greater
+Mount Egerton,Moorabool
+Wunghnu,Moira
+Maroona,Ararat
+Jindivick,Baw
+Talgarno,Towong
+Bungaree,Moorabool
+Little River,Wyndham
+Cowwarr,Wellington
+South Morang,Whittlesea
+Pyalong,Mitchell
+Winchelsea,Surf
+Buln Buln,Baw
+Soldiers Hill,Ballarat
+Mornington,Mornington
+Blowhard,Ballarat
+Yarrambat,Nillumbik
+Thoona,Benalla
+Casterton,Glenelg
+Nathalia,Moira
+Greensborough,Banyule
+Teesdale,Golden
+Cranbourne,Casey
+Katamatite,Moira
+Buangor,Ararat
+Leitchville,Gannawarra
+Whittlesea,Whittlesea
+Nerrina,Ballarat
+Warragul,Baw
+Kangaroo Ground,Nillumbik
+Traralgon South,Latrobe
+Coleraine,Southern
+Lake Charm,Gannawarra
+Ripplebrook,Baw
+Numurkah,Moira
+Moe,Latrobe
+Geelong,Greater
+Bayswater,Knox
+Minyip,Yarriambiack
+Mulgrave,Monash
+Yarragon,Baw
+Tyers,Latrobe
+Trafalgar,Baw
+Kinglake,Murrindindi
+Ellinbank,Baw
+Baranduda,Wodonga
+Tungamah,Moira
+Bunyip,Cardinia
+Gunbower,Campaspe
+Nar Nar Goon,Cardinia
+Toora,South
+Montrose,Yarra
+Koondrook,Gannawarra
+Katunga,Moira
+Magpie,Ballarat
+Tawonga,Alpine
+Narracan,Baw
+Eskdale,Towong
+Darnum,Baw
+Moorooduc,Mornington
+The Basin,Knox
+Paynesville,East
+Epsom,Greater
+Kensington,Melbourne
+Hazelwood North,Latrobe
+Mirboo North,South
+Yinnar,Latrobe
+Neerim South,Baw
+Ivanhoe,Banyule
+Portarlington,Greater
+The Patch,Yarra
+Labertouche,Baw
+Diggers Rest,Melton
+Longwarry,Baw
+Gembrook,Cardinia
+Wurruk,Wellington
+Willow Grove,Baw
+Hoddles Creek,Yarra
+Beaconsfield Upper,Cardinia
+Congupna,Greater
+Redesdale,Greater
+Malvern East,Stonnington
+Launching Place,Yarra
+Carlton,Melbourne
+Ascot Vale,Moonee
+Boolarra,Latrobe
+Rosebud,Mornington
+Koo Wee Rup,Cardinia
+Armadale,Stonnington
+Mount Martha,Mornington
+Somerville,Mornington
+Willaura,Ararat
+Lakes Entrance,East
+Myrrhee,Wangaratta
+Longwood,Strathbogie
+Forrest,Colac-Otway
+Fairfield,Darebin
+Nilma,Baw
+Garfield,Cardinia
+Yinnar South,Latrobe
+Officer,Cardinia
+Brunswick East,Moreland
+Orbost,East
+Inverloch,Bass
+Surrey Hills,Whitehorse
+South Melbourne,Port
+Strathmerton,Moira
+Laharum,Horsham
+Walwa,Towong
+Middle Park,Port
+Seville,Yarra
+Yarraville,Maribyrnong
+Moreland,Moreland
+Tanjil South,Baw
+Pomonal,Ararat
+Glengarry,Latrobe
+Carnegie,Glen
+Lang Lang,Cardinia
+Croydon,Maroondah
+Moonee Ponds,Moonee
+Mitcham,Whitehorse
+Loch,South
+Mildura,Mildura
+Blackburn,Whitehorse
+Newmerella,East
+Port Melbourne,Port
+Hawthorn East,Boroondara
+Mentone,Kingston
+Research,Nillumbik
+Pearcedale,Casey
+Lindenow South,East
+Thorpdale,Baw
+St Albans,Brimbank
+Leongatha,South
+Jeparit,Hindmarsh
+Toorak,Stonnington
+Baxter,Mornington
+Fish Creek,South
+Beaconsfield,Cardinia
+Metung,East
+Newhaven,Bass
+Halls Gap,Northern
+Tallygaroopna,Greater
+Bentleigh,Glen
+Korumburra,South
+Crib Point,Mornington
+Pascoe Vale,Moreland
+Flowerdale,Murrindindi
+Ocean Grove,Greater
+Beulah,Yarriambiack
+Sunshine,Brimbank
+Tyabb,Mornington
+Thornbury,Darebin
+Huon,Indigo
+Kew East,Boroondara
+Nichols Point,Mildura
+Irymple,Mildura
+Eagle Point,East
+Yarra Junction,Yarra
+Sassafras,Yarra
+Ferny Creek,Yarra
+Toolangi,Murrindindi
+Wonga Park,Manningham
+Kinglake West,Murrindindi
+Crib Point,Unincorporated
+Monbulk,Yarra
+Lake Boga,Swan
+Chum Creek,Yarra
+Kalorama,Yarra
+Nullawil,Buloke
+Kinglake Central,Murrindindi
+Point Lonsdale,Queenscliffe
+Inverloch,South
+Clarinda,Kingston
+Chelsea Heights,Kingston
+Wallington,Greater
+Tecoma,Yarra
+Torquay,Surf
+Noorinbee,East
+Emerald,Cardinia
+Seaford,Kingston
+Nyora,South
+Exford,Melton
+Ultima,Swan
+Mount Waverley,Monash
+Marlo,East
+Murrumbeena,Glen
+Koorlong,Mildura
+Warranwood,Maroondah
+Willowmavin,Mitchell
+Olinda,Yarra
+Carlisle River,Colac-Otway
+Strathdale,Greater
+Mallacoota,East
+Langwarrin,Frankston
+Cockatoo,Cardinia
+Upwey,Yarra
+Sydenham,Brimbank
+Canterbury,Boroondara
+Cabarita,Mildura
+Traralgon,Latrobe
+Brunswick West,Moreland
+Fawkner,Moreland
+Alphington,Yarra
+Bona Vista,Baw
+Bundoora,Whittlesea
+Macclesfield,Yarra
+Black Rock,Bayside
+Mount Evelyn,Yarra
+Kilsyth,Yarra
+Wonthaggi,Bass
+Spotswood,Hobsons
+Clyde,Casey
+Noble Park,Greater
+Deepdene,Boroondara
+Clifton Creek,East
+Cardinia,Cardinia
+Grahamvale,Greater
+Glen Huntly,Glen
+Nanneella,Campaspe
+Wantirna,Knox
+Melton South,Melton
+Chelsea,Kingston
+Nowa Nowa,East
+Hampton,Bayside
+"St Kilda Rd Central, Melbourne",Melbourne
+Balliang East,Moorabool
+Edithvale,Kingston
+Orrvale,Greater
+Underbool,Mildura
+Caulfield North,Glen
+Seaford,Frankston
+Burwood,Whitehorse
+Murrabit,Gannawarra
+Brighton East,Bayside
+Cromer,Bayside
+Dookie Campus,Greater
+Cann River,East
+Altona,Hobsons
+Devon Meadows,Casey
+Upper Ferntree Gully,Knox
+Eildon,Murrindindi
+Bittern,Mornington
+Colbinabbin,Campaspe
+Stanhope,Campaspe
+Hurstbridge,Nillumbik
+Elwood,Port
+Mont Albert,Whitehorse
+Dhurringile,Greater
+Strathewen,Nillumbik
+Don Valley,Yarra
+Reservoir,Darebin
+Yallourn North,Latrobe
+Girgarre,Campaspe
+Yaapeet,Yarriambiack
+Gladysdale,Yarra
+Kallista,Yarra
+Essendon North,Moonee
+Red Cliffs,Mildura
+Hampton Park,Casey
+St Kilda East,Glen
+Noojee,Baw
+Montmorency,Banyule
+Moriac,Surf
+Ringwood North,Maroondah
+Bayswater,Maroondah
+Point Cook,Wyndham
+Airly,Wellington
+Parkdale,Kingston
+Hughesdale,Monash
+Aspendale,Kingston
+Eltham North,Nillumbik
+Manifold Heights,Greater
+Nungurner,East
+Dingley Village,Kingston
+Cardross,Mildura
+Albion,Brimbank
+Lemnos,Greater
+Tarwin Lower,South
+Surrey Hills,Boroondara
+Caulfield South,Glen
+Ashburton,Boroondara
+Seaspray,Wellington
+Anglesea,Surf
+Briar Hill,Banyule
+Zeerust,Greater
+Ormond,Glen
+Clayton South,Kingston
+Ivanhoe East,Banyule
+Cobains,Wellington
+Mildura South,Mildura
+Katandra West,Greater
+Narre Warren,Casey
+Somers,Mornington
+Pascoe Vale South,Moreland
+Rosanna,Banyule
+Wantirna South,Knox
+Strathmore,Moonee
+Balwyn North,Boroondara
+Mount Beauty,Alpine
+East Coburg,Darebin
+Newborough,Latrobe
+Shepparton,Greater
+Hamlyn Heights,Greater
+Karingal Centre,Frankston
+Selby,Yarra
+Moorabbin,Glen
+Ballarat North,Ballarat
+Bandiana Milpo,Wodonga
+Horsham,Horsham
+Ringwood East,Maroondah
+Lalor,Whittlesea
+Bentleigh East,Glen
+Blackburn North,Whitehorse
+Oakleigh South,Monash
+Box Hill North,Whitehorse
+Ferntree Gully,Knox
+Oak Park,Moreland
+Sunshine North,Brimbank
+Cheltenham,Kingston
+Cranbourne South,Casey
+Lake Gardens,Ballarat
+East Preston,Darebin
+North Geelong,Greater
+Craigieburn,Hume
+Frankston,Frankston
+Braybrook,Maribyrnong
+Bonbeach,Kingston
+Springvale,Greater
+Beaumaris,Bayside
+Brentford Square,Whitehorse
+Glenroy,Moreland
+Avondale Heights,Moonee
+Doncaster East,Manningham
+Kerrimuir,Whitehorse
+Heathmont,Maroondah
+East Bentleigh,Glen
+Watsonia,Banyule
+Kingsbury,Darebin
+Ardeer,Brimbank
+Tullamarine,Hume
+Park Orchards,Manningham
+Bell Post Hill,Greater
+Donvale,Manningham
+Pinewood,Monash
+Dallas,Hume
+Keilor East,Moonee
+Burnt Bridge,Maroondah
+Forest Hill,Whitehorse
+Lara,Greater
+Ringwood,Maroondah
+Viewbank,Banyule
+Simpson,Corangamite
+Invergordon,Moira
+Mountain Gate,Knox
+Boronia,Knox
+Karingal,Frankston
+Glen Waverley,Monash
+Moorabbin,Bayside
+Altona North,Hobsons
+Burwood East,Whitehorse
+Mooroolbark,Yarra
+Pines Forest,Frankston
+Broadmeadows,Hume
+Geelong North,Greater
+Churchill,Latrobe
+Morwell,Latrobe
+Bulleen,Manningham
+Watsonia North,Banyule
+Knoxfield,Knox
+Doncaster,Manningham
+Frankston South,Frankston
+Rowville,Knox
+Hoppers Crossing,Wyndham
+Templestowe Lower,Manningham
+"Karingal Centre P.O.,Frankston",Frankston
+Gladstone Park,Hume
+Vermont South,Whitehorse
+Bundoora,Banyule
+Deer Park,Brimbank
+Campbellfield,Hume
+Wheelers Hill,Monash
+Belvedere Park Po Seaford,Frankston
+Richmond,Yarra
+Sunshine West,Brimbank
+Falls Creek,Unincorporated
+Dandenong North,Greater
+Ashwood,Monash
+Noble Park North,Greater
+Whittington,Greater
+Templestowe,Manningham
+Capel Sound,Mornington
+Endeavour Hills,Casey
+West Wodonga,Wodonga
+Bellfield,Banyule
+Cobram,Moira
+Brandon Park,Monash
+Greensborough,Nillumbik
+Hoppers Crossing Dc,Wyndham
+Altona Meadows,Hobsons
+Albanvale,Brimbank
+Roxburgh Park,Hume
+Patterson Lakes,Kingston
+Chirnside Park,Yarra
+Corinella,Bass
+Redan,Ballarat
+Melton West,Melton
+Laverton,Hobsons
+Meadow Heights,Hume
+Loch Sport,Wellington
+Moorabbin East,Glen
+Croydon Hills,Maroondah
+Taylors Lakes,Brimbank
+Eltham North,Banyule
+Kingsville,Maribyrnong
+Blackburn South,Whitehorse
+Epping,Whittlesea
+Delahey,Brimbank
+Aspendale Gardens,Kingston
+Keilor Downs,Brimbank
+Seabrook,Hobsons
+Violet Town,Strathbogie
+Pakenham,Cardinia
+Cranbourne North,Casey
+Derrinallum,Corangamite
+Mortlake,Moyne
+Branxholme,Southern
+Mount Duneed,Greater
+Grasmere,Moyne
+Narrawong,Glenelg
+Ballarat Mail Centre,Ballarat
+Tempy,Yarriambiack
+Rawson,Baw
+Bundalaguah,Wellington
+Lardner,Baw
+Nayook,Baw
+Nambrok,Wellington
+Welshpool,South
+Whitfield,Wangaratta
+Greta South,Wangaratta
+Everton,Wangaratta
+Waaia,Moira
+Nangiloc,Mildura
+Sea Lake,Buloke
+Harcourt,Mount
+Beverford,Swan
+Niddrie,Moonee
+Toolern Vale,Melton
+Box Hill South,Whitehorse
+Meeniyan,South
+Bayles,Cardinia
+Dalyston,Bass
+Waverley Gardens,Monash
+Oakleigh East,Monash
+Edenhope,West
+Murrayville,Mildura
+Hawkesdale,Moyne
+Yallambie,Banyule
+Woorinen South,Swan
+Smythesdale,Golden
+Gormandale,Wellington
+Somerton,Hume
+Newcomb,Greater
+Nyah West,Swan
+Narre Warren South,Casey
+Cranbourne East,Casey
+Hillside,Melton
+Lynbrook,Casey
+Doreen,Whittlesea
+Tarneit,Wyndham
+Caroline Springs,Melton
+Truganina,Wyndham
+Burnside,Melton
+Lyndhurst,Casey
+Keysborough,Greater
+Springvale South,Greater
+Nth Bendigo,Greater
+Wyndham Vale,Wyndham
+Jacana,Hume
+Clyde North,Casey
+Southbank,Port
+Cranbourne West,Casey
+Armstrong Creek,Greater
+Aireys Inlet,Surf
+Apollo Bay,Colac-Otway
+Boisdale,Wellington
+Cohuna,Gannawarra
+Dunkeld,Southern
+Dingee,Loddon
+Foster,South
+Goroke,West
+Heywood,Glenelg
+Tangambalanga,Indigo
+Lavers Hill,Colac-Otway
+Lockington,Campaspe
+Manangatang,Swan
+Terang,Corangamite
+Merino,Glenelg
+Rushworth,Campaspe
+Macleod,Banyule
+Poowong,South
+Port Fairy,Moyne
+Red Hill,Mornington
+Tongala,Campaspe
+Werrimull,Mildura
+Camperdown,Corangamite
+Timboon,Corangamite
+Wedderburn,Loddon
+Mont Albert North,Whitehorse
+Wollert,Whittlesea
+Northland,Darebin
+Southbank,Melbourne
+Box Hill,Whitehorse
+East Geelong,Greater
+Flemington,Melbourne
+Kyabram,Campaspe
+Lorne P-12 College,Surf
+Maribyrnong,Maribyrnong
+South Yarra,Stonnington
+Mckinnon,Glen
+Melbourne,Port
+Ouyen,Mildura
+Princes Hill,Yarra
+Rainbow,Hindmarsh
+Robinvale,Swan
+Brunswick,Moreland
+Parkville,Melbourne
+Somerton Bc Somerton,Hume
+Ballarat East,Ballarat
+Caulfield East,Glen
+Morwell Bc,Latrobe
+Collingwood,Yarra
+Fraser Rise,Melton
+Frankston North,Frankston
+Charlton,Buloke
+Wycheproof,Buloke
+Birchip,Buloke
+Nhill,Hindmarsh
+Robinson,Maribyrnong
+Kaniva,West
+Corryong,Towong
+Maryborough,Central
+Monash University,Monash
+Balmoral,Southern
+Myrtleford,Alpine
+Boort,Loddon
+Yarrawonga,Moira
+Seymour,Mitchell
+Merbein,Mildura
+Macleod West,Darebin
+St. Albans,Brimbank
+Swifts Creek,East
+Corio,Greater
+Hopetoun,Yarriambiack
+Doveton,Casey
+Benalla,Benalla
+Melbourne,Melbourne
+Glen Iris,Stonnington
+West Melbourne,Melbourne
+Ballarat West,Ballarat
+Elsternwick,Glen
+St Kilda East,Port
+Tarrington,Southern
+Dunnstown,Moorabool
+Echuca West,Campaspe
+Portland South,Glenelg
+Quarry Hill,Greater
+Brunswick North,Moreland
+Werribee,Hobsons
+Alphington,Darebin
+Mt Eliza,Mornington
+Coragulac,Colac-Otway
+Dennington,Warrnambool
+Caulfield,Glen
+Prahran East,Stonnington
+Deepdene/Balwyn,Boroondara
+Camberwell East,Boroondara
+Preston West,Darebin
+Preston East,Darebin
+Coburg East,Moreland
+Clarkes Hill,Moorabool
+Chadstone,Monash
+Ivanhoe North,Banyule
+Highett,Bayside
+Nunawading,Whitehorse
+Thornbury East,Darebin
+Heidelberg West,Banyule
+Herne Hill,Greater
+Kennington,Greater
+Shepparton South,Greater
+Morwell East,Latrobe
+Reservoir East,Darebin
+Aberfeldie,Moonee
+Bennettswood,Whitehorse
+Parkdale East,Kingston
+Fawkner North,Moreland
+Belgrave,Yarra
+Warrnambool West,Warrnambool
+Airport West,Moonee
+Eliminyt,Colac-Otway
+Hadfield,Moreland
+Frankston East,Frankston
+Warrnambool East,Warrnambool
+Wodonga West,Wodonga
+Bendigo North,Greater
+Dingley,Kingston
+Darling South,Stonnington
+St Albans South,Brimbank
+Thomastown East,Whittlesea
+Taylors Hill,Melton
+Thomastown West,Whittlesea
+Kealba,Brimbank
+Reservoir North,Darebin
+Kings Park,Brimbank
+St Helena,Banyule
+Vermont,Knox
+Greensborough North,Nillumbik
+Sunshine South West,Brimbank
+Traralgon West,Latrobe
+Rhyll,Bass
+Hoppers Crossing North,Wyndham
+Wonga Park,Maroondah
+Lalor West,Whittlesea
+Belgrave Heights,Yarra
+Knox City Centre,Knox
+Leneva,Wodonga
+Delacombe,Ballarat
+Werribee North,Wyndham
+Glenroy,Hume
+Bundoora,Darebin
+Tynong,Cardinia
+Freshwater Creek,Surf
+Campbellfield,Whittlesea
+Lovely Banks,Greater
+Richmond,Greater
+Shepparton North,Greater
+Richmond North,Yarra
+Mt Martha,Mornington
+North Fitzroy,Yarra
+Langwarrin South,Frankston
+Derrimut,Brimbank
+Bangholme,Greater
+Koonwarra,South
+Epping North,Whittlesea
+Werribee Plaza,Wyndham
+Truganina South,Wyndham
+Richmond,Melbourne
+Koonwarra,Bass
+Rosebud West,Mornington
+Fitzroy,Frankston
