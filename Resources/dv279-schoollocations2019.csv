@@ -1,4 +1,4 @@
-Education_Sector,Entity_Type,School_No,School_Name,School_Type,School_Status,Address_Line_1,Address_Line_2,Address_Town,Address_State,Address_Postcode,Postal_Address_Line_1,Postal_Address_Line_2,Postal_Town,Postal_State,Postal_Postcode,Full_Phone_No,LGA_ID,LGA_Name,X,Y
+﻿Education_Sector,Entity_Type,School_No,School_Name,School_Type,School_Status,Address_Line_1,Address_Line_2,Address_Town,Address_State,Address_Postcode,Postal_Address_Line_1,Postal_Address_Line_2,Postal_Town,Postal_State,Postal_Postcode,Full_Phone_No,LGA_ID,LGA_Name,X,Y
 Government,1,1,Alberton Primary School,Primary,O,21 Thomson Street,,Alberton,VIC,3971,21 Thomson Street,,ALBERTON,VIC,3971,03 5183 2412,681,Wellington (S),146.666601,-38.617713
 Government,1,3,Allansford and District Primary School,Primary,O,Frank Street,,Allansford,VIC,3277,Frank Street,,ALLANSFORD,VIC,3277,03 5565 1382,673,Warrnambool (C),142.590393,-38.386281
 Government,1,4,Avoca Primary School,Primary,O,118 Barnett Street,,Avoca,VIC,3467,P O Box 12,,AVOCA,VIC,3467,03 5465 3176,599,Pyrenees (S),143.475649,-37.084502
@@ -2233,7 +2233,7 @@ Independent,2,2102,Hoa Nghiem Primary School,Primary,O,442 - 448 Springvale Road
 Independent,2,2103,Al Iman College,Pri/Sec,O,20-40 Rees Road,,MELTON SOUTH,VIC,3338,PO Box 2337,,MELTON SOUTH,VIC,3338,03 9743 4140,465,Melton (C),144.5654845,-37.7071174
 Independent,2,2104,Edinburgh College,Pri/Sec,O,33-61 Edinburgh Road,,LILYDALE,VIC,3140,33-61 Edinburgh Road,,LILYDALE,VIC,3140,03 9728 2211,745,Yarra Ranges (S),145.351985,-37.78489
 Independent,2,2105,Giant Steps Melbourne,Special,O,11 Malmsbury Street,,KEW,VIC,3101,PO Box 586,,KEW,VIC,3101,03 9853 9578,111,Boroondara (C),145.031476,-37.80222
-Independent,2,2106,Harkaway Hills College,Primary,O,20 A�Beckett Road,,NARRE WARREN NORTH,VIC,3804,PO Box 420,,NARRE WARREN NORTH,VIC,3804,03 9028 4420,161,Casey (C),145.31587,-37.977493
+Independent,2,2106,Harkaway Hills College,Primary,O,20 A’Beckett Road,,NARRE WARREN NORTH,VIC,3804,PO Box 420,,NARRE WARREN NORTH,VIC,3804,03 9028 4420,161,Casey (C),145.31587,-37.977493
 Independent,2,2107,Lumineer Academy - Williamstown,Primary,O,126-128 Nelson Place,,WILLIAMSTOWN,VIC,3016,126-128 Nelson Place,,WILLIAMSTOWN,VIC,3016,03 8560 4466,311,Hobsons Bay (C),144.905196,-37.863109
 Independent,2,2108,Phillip Island Village School,Primary,O,479 Berrys Beach Road,,VENTNOR,VIC,3922,PO Box 144,,KOONWARRA,VIC,3954,03 5956 8568,74,Bass Coast (S),145.201465,-38.50776
 Independent,2,2109,Advance College of Education Incorporated,Special,O,1/16 Henry Wilson Drive,,ROSEBUD,VIC,3939,PO BOX 524,,ROSEBUD WEST,VIC,3939,03 5986 4623,534,Mornington Peninsula (S),144.885064,-38.382847
