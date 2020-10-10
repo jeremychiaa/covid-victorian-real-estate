@@ -16,7 +16,7 @@
 ### Data Collection
 Real Estate data
 Kaggle
-- https://www.kaggle.com/htagholdings/aus real estate sales march 2019 to april2020
+- https://www.kaggle.com/htagholdings/aus-real-estate-sales-march-2019-to-april-2020
 
 Covid 19 Data
 DHHS Website
