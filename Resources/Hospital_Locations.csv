@@ -1,4 +1,4 @@
-X,Y,FID,LabelName,OpsName,Type,StreetNum,RoadName,RoadType,RoadSuffix,CampusCode,LGAName,LocalityNa,Postcode,VicgovRegi,State,ServiceNam
+﻿X,Y,FID,LabelName,OpsName,Type,StreetNum,RoadName,RoadType,RoadSuffix,CampusCode,LGAName,LocalityNa,Postcode,VicgovRegi,State,ServiceNam
 144.983398682,-37.809680632,1,East Melbourne Specialist Day Hospital,EAST MELBOURNE DAY HOSPITAL,PRIVATE,23,CLARENDON,STREET, ,8280,MELBOURNE, ,3002,NWMR,VIC, 
 145.149300001,-37.9514,2,Windsor Avenue Day Surgery,WINDSOR AVENUE DAY SURGERY,PRIVATE,17,WINDSOR,AVENUE, ,7050,GREATER DANDENONG, ,3171,SMR,VIC, 
 145.344652704,-38.034580487,3,Hyperbaric Health Wound Centre Berwick,HYPERBARIC HEALTH - BERWICK,PRIVATE,3,GIBB,STREET, ,7100,CASEY, ,3806,SMR,VIC, 

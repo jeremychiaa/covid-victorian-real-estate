@@ -1,0 +1,989 @@
+Suburb,Postcode,LGA_ID,LGA_Name
+Alberton,3971,681,Wellington
+Allansford,3277,673,Warrnambool
+Avoca,3467,599,Pyrenees
+Avenel,3664,643,Strathbogie
+Warrandyte,3113,421,Manningham
+Belmont,3216,275,Greater
+Bacchus Marsh,3340,515,Moorabool
+Ballarat,3350,57,Ballarat
+Wodonga,3689,717,Wodonga
+Berwick,3806,161,Casey
+Beaufort,3373,599,Pyrenees
+Cheltenham,3192,91,Bayside
+Cudgee,3265,549,Moyne
+Newport,3015,311,Hobsons
+Cavendish,3314,626,Southern
+Colac,3250,175,Colac-Otway
+Castlemaine,3450,543,Mount
+Campbells Creek,3451,543,Mount
+Creswick,3363,291,Hepburn
+California Gully,3556,262,Greater
+St Andrews,3761,571,Nillumbik
+Warrnambool,3280,673,Warrnambool
+Dromana,3936,534,Mornington
+"Westfield, Doncaster",3108,421,Manningham
+Echuca,3564,137,Campaspe
+Eltham,3095,571,Nillumbik
+Eaglehawk,3556,262,Greater
+Elphinstone,3448,543,Mount
+Hallam,3803,161,Casey
+Flemington,3031,506,Moonee
+West Footscray,3012,433,Maribyrnong
+Gisborne,3437,413,Macedon
+Sandringham,3191,91,Bayside
+Bright,3741,11,Alpine
+Grovedale,3216,275,Greater
+Hawthorn,3122,111,Boroondara
+Heidelberg,3084,66,Banyule
+Hamilton,3300,626,Southern
+Heathcote,3523,262,Greater
+Highton,3216,275,Greater
+Huntly,3551,262,Greater
+Bellbrae,3228,649,Surf
+Chiltern,3683,335,Indigo
+Kyneton,3444,413,Macedon
+Romsey,3434,413,Macedon
+Shelford,3329,249,Golden
+Lockwood South,3551,262,Greater
+Marong,3515,262,Greater
+Mount Macedon,3441,413,Macedon
+Mount Clear,3350,57,Ballarat
+Melton,3337,465,Melton
+Fitzroy,3065,735,Yarra
+Newstead,3462,543,Mount
+Newlyn,3364,291,Hepburn
+Glen Waverley,3150,698,Whitehorse
+New Gisborne,3438,413,Macedon
+Beeac,3251,175,Colac-Otway
+Essendon,3040,506,Moonee
+Coburg,3058,525,Moreland
+Penshurst,3289,626,Southern
+Myrniong,3341,515,Moorabool
+Mernda,3754,707,Whittlesea
+Portland,3305,241,Glenelg
+Stawell,3380,581,Northern
+Rutherglen,3685,335,Indigo
+Riddells Creek,3431,413,Macedon
+Rokewood,3330,249,Golden
+Geelong East,3219,275,Greater
+Sale,3850,681,Wellington
+Skipton,3361,183,Corangamite
+South Yarra,3141,460,Melbourne
+Stratford,3862,681,Wellington
+Taradale,3447,543,Mount
+Koroit,3282,549,Moyne
+Tylden,3444,413,Macedon
+Thomastown,3074,707,Whittlesea
+Wangaratta,3676,670,Wangaratta
+Wahgunyah,3687,335,Indigo
+Woodend,3442,413,Macedon
+Woodford,3281,673,Warrnambool
+Werribee,3030,726,Wyndham
+Beechworth,3747,335,Indigo
+Wallan,3756,485,Mitchell
+Woolsthorpe,3276,549,Moyne
+Yandoit,3461,291,Hepburn
+Yarram,3971,681,Wellington
+Lake Wendouree,3350,57,Ballarat
+Yea,3717,562,Murrindindi
+Lancefield,3435,413,Macedon
+Coimadai,3340,515,Moorabool
+Birregurra,3242,175,Colac-Otway
+Clayton,3168,497,Monash
+Milawa,3678,670,Wangaratta
+Lockwood,3551,262,Greater
+Bealiba,3475,167,Central
+Bairnsdale,3875,211,East
+Gordon,3345,515,Moorabool
+Hepburn,3461,291,Hepburn
+Lara Lake,3212,275,Greater
+Rosedale,3847,681,Wellington
+Rochester,3561,137,Campaspe
+Ararat,3377,26,Ararat
+Jamieson,3723,425,Mansfield
+Preston,3072,189,Darebin
+Omeo,3898,211,East
+Harrietville,3741,11,Alpine
+Mordialloc,3195,343,Kingston
+Healesville,3777,745,Yarra
+Lake Bolac,3351,26,Ararat
+Toongabbie,3856,381,Latrobe
+Waubra,3352,599,Pyrenees
+Great Western,3374,581,Northern
+Maffra,3860,681,Wellington
+Broken Creek,3673,101,Benalla
+Lal Lal,3352,515,Moorabool
+Cobden,3266,183,Corangamite
+St Leonards,3223,275,Greater
+Lilydale,3140,745,Yarra
+Bendigo,3552,262,Greater
+Darraweit Guim,3756,413,Macedon
+Linton,3360,249,Golden
+Invermay,3352,57,Ballarat
+Mitta Mitta,3701,667,Towong
+Camberwell,3124,111,Boroondara
+Greenvale,3059,327,Hume
+Alexandra,3714,562,Murrindindi
+Bannockburn,3331,249,Golden
+Doreen,3754,571,Nillumbik
+Talbot,3371,167,Central
+Yarra Glen,3775,745,Yarra
+Elmhurst,3469,26,Ararat
+Kangaroo Flat,3555,262,Greater
+Westmeadows,3049,327,Hume
+Sunbury,3429,327,Hume
+Diamond Creek,3089,571,Nillumbik
+Axedale,3551,262,Greater
+Vermont,3133,698,Whitehorse
+Tarnagulla,3551,394,Loddon
+Balwyn,3103,111,Boroondara
+Scoresby,3179,367,Knox
+Carisbrook,3464,167,Central
+Wandin North,3139,745,Yarra
+Coldstream,3770,745,Yarra
+Dartmoor,3304,241,Glenelg
+Mickleham,3064,327,Hume
+Inglewood,3517,394,Loddon
+Chewton,3451,543,Mount
+Bolinda,3432,413,Macedon
+Napoleons,3352,249,Golden
+Kew,3101,111,Boroondara
+Haddon,3351,249,Golden
+Panmure,3265,549,Moyne
+Sorrento,3943,534,Mornington
+Alfredton,3350,57,Ballarat
+Bridgewater,3516,394,Loddon
+Hastings,3915,534,Mornington
+Yackandandah,3749,335,Indigo
+Nagambie,3608,643,Strathbogie
+Heyfield,3858,681,Wellington
+Moorabbin,3189,343,Kingston
+Mansfield,3724,425,Mansfield
+Indigo Valley,3688,335,Indigo
+Briagolong,3860,681,Wellington
+Lindenow,3865,211,East
+Broadford,3658,485,Mitchell
+Murchison,3610,283,Greater
+Panton Hill,3759,571,Nillumbik
+Glen Park,3352,515,Moorabool
+Concongella,3384,581,Northern
+Bruthen,3885,211,East
+Swan Hill,3585,661,Swan
+Porepunkah,3740,11,Alpine
+Leopold,3224,275,Greater
+Inverleigh,3321,249,Golden
+Glen Iris,3146,111,Boroondara
+Trawalla,3373,599,Pyrenees
+Bendigo Dc,3554,262,Greater
+Sebastopol,3356,57,Ballarat
+Woodside,3874,681,Wellington
+Noorat,3265,183,Corangamite
+Albert Park,3206,590,Port
+Williamstown,3016,311,Hobsons
+Rye,3941,534,Mornington
+Queenscliff,3225,608,Queenscliffe
+Portland North,3305,241,Glenelg
+Timor,3465,167,Central
+Apsley,3319,689,West
+Strathfieldsaye,3551,262,Greater
+Carrum Downs,3201,217,Frankston
+Tooborac,3522,485,Mitchell
+Carlton North,3054,735,Yarra
+Maldon,3463,543,Mount
+Woori Yallock,3139,745,Yarra
+Moyston,3377,26,Ararat
+Buninyong,3357,57,Ballarat
+Marysville,3779,562,Murrindindi
+Langley,3444,543,Mount
+Wandong,3758,485,Mitchell
+Cowes,3922,74,Bass
+Bullarto,3461,291,Hepburn
+Lismore,3324,183,Corangamite
+Lower Plenty,3093,66,Banyule
+Golden Square,3555,262,Greater
+Bolwarra,3305,241,Glenelg
+Navarre,3384,581,Northern
+Warracknabeal,3393,763,Yarriambiack
+Moyhu,3732,670,Wangaratta
+Natte Yallock,3465,599,Pyrenees
+Clifton Hill,3068,735,Yarra
+Christmas Hills,3775,571,Nillumbik
+Tallangatta,3700,667,Towong
+Kialla,3631,283,Greater
+Mount Eliza,3930,534,Mornington
+San Remo,3925,74,Bass
+Dimboola,3414,298,Hindmarsh
+Whorouly,3735,670,Wangaratta
+Merrijig,3723,425,Mansfield
+Lethbridge,3332,249,Golden
+Oxley,3678,670,Wangaratta
+Northcote,3070,189,Darebin
+North Melbourne,3051,460,Melbourne
+Dandenong,3175,267,Greater
+Malmsbury,3446,413,Macedon
+Williamstown North,3016,311,Hobsons
+Kerang,3579,225,Gannawarra
+Drouin,3818,83,Baw
+Meredith,3333,249,Golden
+Edi Upper,3678,670,Wangaratta
+Mooroopna,3629,283,Greater
+Cairnlea,3023,118,Brimbank
+Ballan,3342,515,Moorabool
+Tatura,3616,283,Greater
+Toolamba,3614,283,Greater
+Osbornes Flat,3691,335,Indigo
+Frankston East Lpo,3199,217,Frankston
+Donald,3480,127,Buloke
+Beveridge,3753,485,Mitchell
+St Kilda,3182,590,Port
+Cape Clear,3351,249,Golden
+Warburton,3799,745,Yarra
+Tallarook,3659,485,Mitchell
+Barnawartha,3688,335,Indigo
+Fitzroy North,3068,735,Yarra
+Geelong West,3218,275,Greater
+Tooradin,3980,161,Casey
+Elmore,3558,262,Greater
+Dookie,3646,283,Greater
+Brighton,3186,91,Bayside
+Natimuk,3409,319,Horsham
+Murtoa,3390,763,Yarriambiack
+Big Hill,3555,262,Greater
+Clunes,3370,291,Hepburn
+Marnoo,3387,581,Northern
+Ardmona,3629,283,Greater
+Kilmore,3764,485,Mitchell
+Macarthur,3286,549,Moyne
+Barwon Heads,3227,275,Greater
+Keilor,3036,118,Brimbank
+Dunolly,3472,167,Central
+Springhurst,3682,670,Wangaratta
+Dixons Creek,3775,745,Yarra
+Trentham,3458,291,Hepburn
+Warrenheip,3352,57,Ballarat
+Maiden Gully,3551,262,Greater
+Rupanyup,3388,763,Yarriambiack
+Goornong,3557,262,Greater
+Oakleigh,3166,497,Monash
+Ceres,3221,275,Greater
+Malvern,3144,635,Stonnington
+Daylesford,3460,291,Hepburn
+Swan Reach,3903,211,East
+Amphitheatre,3468,599,Pyrenees
+Deans Marsh,3235,649,Surf
+Drysdale,3222,275,Greater
+St Arnaud,3478,581,Northern
+Nullawarre,3268,549,Moyne
+Macedon,3440,413,Macedon
+Arthurs Creek,3099,571,Nillumbik
+Buxton,3711,562,Murrindindi
+Moonambel,3478,599,Pyrenees
+Baringhup,3463,543,Mount
+Longford,3851,681,Wellington
+Harkaway,3806,161,Casey
+Balnarring,3926,534,Mornington
+Londrigan Via Wangaratta,3678,670,Wangaratta
+Euroa,3666,643,Strathbogie
+Pyramid Hill,3575,394,Loddon
+Shepparton East,3631,283,Greater
+Nicholson,3882,211,East
+Kialla West,3631,283,Greater
+Miners Rest,3352,57,Ballarat
+Glenrowan,3675,670,Wangaratta
+Devenish,3726,101,Benalla
+Undera,3629,283,Greater
+Dederang,3691,11,Alpine
+"Axe Creek, Via Strathfieldsaye",3551,262,Greater
+Silvan,3795,745,Yarra
+Wendouree,3355,57,Ballarat
+Lancaster,3620,137,Campaspe
+Raywood,3570,262,Greater
+Drummond,3461,291,Hepburn
+Puckapunyal,3662,485,Mitchell
+Landsborough,3384,599,Pyrenees
+Lysterfield,3156,367,Knox
+Winton,3673,101,Benalla
+Merrigum,3618,283,Greater
+Bethanga,3691,667,Towong
+Abbotsford,3067,735,Yarra
+Newtown,3220,275,Greater
+Windsor,3181,635,Stonnington
+Narre Warren North,3804,161,Casey
+Buchan,3885,211,East
+Anakie,3213,275,Greater
+Moolap,3221,275,Greater
+Footscray,3011,433,Maribyrnong
+Newham,3442,413,Macedon
+Mill Park,3082,707,Whittlesea
+White Hills,3550,262,Greater
+Mount Egerton,3352,515,Moorabool
+Wunghnu,3635,490,Moira
+Maroona,3377,26,Ararat
+Jindivick,3818,83,Baw
+Talgarno,3691,667,Towong
+Bungaree,3352,515,Moorabool
+Little River,3211,726,Wyndham
+Cowwarr,3857,681,Wellington
+South Morang,3752,707,Whittlesea
+Pyalong,3521,485,Mitchell
+Winchelsea,3241,649,Surf
+Buln Buln,3821,83,Baw
+Soldiers Hill,3350,57,Ballarat
+Mornington,3931,534,Mornington
+Blowhard,3352,57,Ballarat
+Yarrambat,3091,571,Nillumbik
+Thoona,3726,101,Benalla
+Casterton,3311,241,Glenelg
+Nathalia,3638,490,Moira
+Greensborough,3088,66,Banyule
+Teesdale,3328,249,Golden
+Cranbourne,3977,161,Casey
+Katamatite,3649,490,Moira
+Buangor,3375,26,Ararat
+Leitchville,3567,225,Gannawarra
+Whittlesea,3757,707,Whittlesea
+Nerrina,3350,57,Ballarat
+Warragul,3820,83,Baw
+Kangaroo Ground,3097,571,Nillumbik
+Traralgon South,3844,381,Latrobe
+Coleraine,3315,626,Southern
+Lake Charm,3581,225,Gannawarra
+Ripplebrook,3818,83,Baw
+Numurkah,3636,490,Moira
+Moe,3825,381,Latrobe
+Geelong,3220,275,Greater
+Bayswater,3153,367,Knox
+Minyip,3392,763,Yarriambiack
+Mulgrave,3170,497,Monash
+Yarragon,3823,83,Baw
+Tyers,3844,381,Latrobe
+Trafalgar,3824,83,Baw
+Kinglake,3763,562,Murrindindi
+Ellinbank,3821,83,Baw
+Baranduda,3691,717,Wodonga
+Tungamah,3728,490,Moira
+Bunyip,3815,145,Cardinia
+Gunbower,3566,137,Campaspe
+Nar Nar Goon,3812,145,Cardinia
+Toora,3962,617,South
+Montrose,3765,745,Yarra
+Koondrook,3580,225,Gannawarra
+Katunga,3640,490,Moira
+Magpie,3352,57,Ballarat
+Tawonga,3697,11,Alpine
+Narracan,3824,83,Baw
+Eskdale,3701,667,Towong
+Darnum,3822,83,Baw
+Moorooduc,3933,534,Mornington
+The Basin,3154,367,Knox
+Paynesville,3880,211,East
+Epsom,3551,262,Greater
+Kensington,3031,460,Melbourne
+Hazelwood North,3840,381,Latrobe
+Mirboo North,3871,617,South
+Yinnar,3869,381,Latrobe
+Neerim South,3831,83,Baw
+Ivanhoe,3079,66,Banyule
+Portarlington,3223,275,Greater
+The Patch,3792,745,Yarra
+Labertouche,3816,83,Baw
+Diggers Rest,3427,465,Melton
+Longwarry,3816,83,Baw
+Gembrook,3783,145,Cardinia
+Wurruk,3850,681,Wellington
+Willow Grove,3825,83,Baw
+Hoddles Creek,3139,745,Yarra
+Beaconsfield Upper,3808,145,Cardinia
+Congupna,3633,283,Greater
+Redesdale,3444,262,Greater
+Malvern East,3145,635,Stonnington
+Launching Place,3139,745,Yarra
+Carlton,3053,460,Melbourne
+Ascot Vale,3032,506,Moonee
+Boolarra,3870,381,Latrobe
+Rosebud,3939,534,Mornington
+Koo Wee Rup,3981,145,Cardinia
+Armadale,3143,635,Stonnington
+Mount Martha,3934,534,Mornington
+Somerville,3912,534,Mornington
+Willaura,3379,26,Ararat
+Lakes Entrance,3909,211,East
+Myrrhee,3732,670,Wangaratta
+Longwood,3665,643,Strathbogie
+Forrest,3236,175,Colac-Otway
+Fairfield,3078,189,Darebin
+Nilma,3821,83,Baw
+Garfield,3814,145,Cardinia
+Yinnar South,3869,381,Latrobe
+Officer,3809,145,Cardinia
+Brunswick East,3057,525,Moreland
+Orbost,3888,211,East
+Inverloch,3996,74,Bass
+Surrey Hills,3127,698,Whitehorse
+South Melbourne,3205,590,Port
+Strathmerton,3641,490,Moira
+Laharum,3401,319,Horsham
+Walwa,3709,667,Towong
+Middle Park,3206,590,Port
+Seville,3139,745,Yarra
+Yarraville,3013,433,Maribyrnong
+Moreland,3058,525,Moreland
+Tanjil South,3825,83,Baw
+Pomonal,3381,26,Ararat
+Glengarry,3854,381,Latrobe
+Carnegie,3163,231,Glen
+Lang Lang,3984,145,Cardinia
+Croydon,3136,441,Maroondah
+Moonee Ponds,3039,506,Moonee
+Mitcham,3132,698,Whitehorse
+Loch,3945,617,South
+Mildura,3500,478,Mildura
+Blackburn,3130,698,Whitehorse
+Newmerella,3888,211,East
+Port Melbourne,3207,590,Port
+Hawthorn East,3123,111,Boroondara
+Mentone,3194,343,Kingston
+Research,3095,571,Nillumbik
+Pearcedale,3912,161,Casey
+Lindenow South,3875,211,East
+Thorpdale,3835,83,Baw
+St Albans,3021,118,Brimbank
+Leongatha,3953,617,South
+Jeparit,3423,298,Hindmarsh
+Toorak,3142,635,Stonnington
+Baxter,3911,534,Mornington
+Fish Creek,3959,617,South
+Beaconsfield,3807,145,Cardinia
+Metung,3904,211,East
+Newhaven,3925,74,Bass
+Halls Gap,3381,581,Northern
+Tallygaroopna,3634,283,Greater
+Bentleigh,3204,231,Glen
+Korumburra,3950,617,South
+Crib Point,3919,534,Mornington
+Pascoe Vale,3044,525,Moreland
+Flowerdale,3717,562,Murrindindi
+Ocean Grove,3226,275,Greater
+Beulah,3395,763,Yarriambiack
+Sunshine,3020,118,Brimbank
+Tyabb,3913,534,Mornington
+Thornbury,3071,189,Darebin
+Huon,3695,335,Indigo
+Kew East,3102,111,Boroondara
+Nichols Point,3501,478,Mildura
+Irymple,3498,478,Mildura
+Eagle Point,3878,211,East
+Yarra Junction,3797,745,Yarra
+Sassafras,3787,745,Yarra
+Ferny Creek,3786,745,Yarra
+Toolangi,3777,562,Murrindindi
+Wonga Park,3115,421,Manningham
+Kinglake West,3757,562,Murrindindi
+Crib Point,3919,939,Unincorporated
+Monbulk,3793,745,Yarra
+Lake Boga,3584,661,Swan
+Chum Creek,3777,745,Yarra
+Kalorama,3766,745,Yarra
+Nullawil,3529,127,Buloke
+Kinglake Central,3757,562,Murrindindi
+Point Lonsdale,3225,608,Queenscliffe
+Inverloch,3996,617,South
+Clarinda,3169,343,Kingston
+Chelsea Heights,3196,343,Kingston
+Wallington,3222,275,Greater
+Tecoma,3160,745,Yarra
+Torquay,3228,649,Surf
+Noorinbee,3890,211,East
+Emerald,3782,145,Cardinia
+Seaford,3198,343,Kingston
+Nyora,3987,617,South
+Exford,3338,465,Melton
+Ultima,3544,661,Swan
+Mount Waverley,3149,497,Monash
+Marlo,3888,211,East
+Murrumbeena,3163,231,Glen
+Koorlong,3501,478,Mildura
+Warranwood,3134,441,Maroondah
+Willowmavin,3764,485,Mitchell
+Olinda,3788,745,Yarra
+Carlisle River,3239,175,Colac-Otway
+Strathdale,3550,262,Greater
+Mallacoota,3892,211,East
+Langwarrin,3910,217,Frankston
+Cockatoo,3781,145,Cardinia
+Upwey,3158,745,Yarra
+Sydenham,3037,118,Brimbank
+Canterbury,3126,111,Boroondara
+Cabarita,3505,478,Mildura
+Traralgon,3844,381,Latrobe
+Brunswick West,3055,525,Moreland
+Fawkner,3060,525,Moreland
+Alphington,3078,735,Yarra
+Bona Vista,3820,83,Baw
+Bundoora,3083,707,Whittlesea
+Macclesfield,3782,745,Yarra
+Black Rock,3193,91,Bayside
+Mount Evelyn,3796,745,Yarra
+Kilsyth,3137,745,Yarra
+Wonthaggi,3995,74,Bass
+Spotswood,3015,311,Hobsons
+Clyde,3978,161,Casey
+Noble Park,3174,267,Greater
+Deepdene,3103,111,Boroondara
+Clifton Creek,3875,211,East
+Cardinia,3978,145,Cardinia
+Grahamvale,3631,283,Greater
+Glen Huntly,3163,231,Glen
+Nanneella,3561,137,Campaspe
+Wantirna,3152,367,Knox
+Melton South,3338,465,Melton
+Chelsea,3196,343,Kingston
+Nowa Nowa,3887,211,East
+Hampton,3188,91,Bayside
+"St Kilda Rd Central, Melbourne",8008,460,Melbourne
+Balliang East,3340,515,Moorabool
+Edithvale,3196,343,Kingston
+Orrvale,3631,283,Greater
+Underbool,3509,478,Mildura
+Caulfield North,3161,231,Glen
+Seaford,3198,217,Frankston
+Burwood,3125,698,Whitehorse
+Murrabit,3579,225,Gannawarra
+Brighton East,3187,91,Bayside
+Cromer,3193,91,Bayside
+Dookie Campus,3647,283,Greater
+Cann River,3890,211,East
+Altona,3018,311,Hobsons
+Devon Meadows,3977,161,Casey
+Upper Ferntree Gully,3156,367,Knox
+Eildon,3713,562,Murrindindi
+Bittern,3918,534,Mornington
+Colbinabbin,3559,137,Campaspe
+Stanhope,3623,137,Campaspe
+Hurstbridge,3099,571,Nillumbik
+Elwood,3184,590,Port
+Mont Albert,3127,698,Whitehorse
+Dhurringile,3610,283,Greater
+Strathewen,3099,571,Nillumbik
+Don Valley,3139,745,Yarra
+Reservoir,3073,189,Darebin
+Yallourn North,3825,381,Latrobe
+Girgarre,3624,137,Campaspe
+Yaapeet,3424,763,Yarriambiack
+Gladysdale,3797,745,Yarra
+Kallista,3791,745,Yarra
+Essendon North,3041,506,Moonee
+Red Cliffs,3496,478,Mildura
+Hampton Park,3976,161,Casey
+St Kilda East,3183,231,Glen
+Noojee,3833,83,Baw
+Montmorency,3094,66,Banyule
+Moriac,3240,649,Surf
+Ringwood North,3134,441,Maroondah
+Bayswater,3153,441,Maroondah
+Point Cook,3030,726,Wyndham
+Airly,3851,681,Wellington
+Parkdale,3195,343,Kingston
+Hughesdale,3166,497,Monash
+Aspendale,3195,343,Kingston
+Eltham North,3095,571,Nillumbik
+Manifold Heights,3218,275,Greater
+Nungurner,3909,211,East
+Dingley Village,3172,343,Kingston
+Cardross,3496,478,Mildura
+Albion,3020,118,Brimbank
+Lemnos,3631,283,Greater
+Tarwin Lower,3956,617,South
+Surrey Hills,3127,111,Boroondara
+Caulfield South,3162,231,Glen
+Ashburton,3147,111,Boroondara
+Seaspray,3851,681,Wellington
+Anglesea,3230,649,Surf
+Briar Hill,3088,66,Banyule
+Zeerust,3634,283,Greater
+Ormond,3204,231,Glen
+Clayton South,3169,343,Kingston
+Ivanhoe East,3079,66,Banyule
+Cobains,3851,681,Wellington
+Mildura South,3501,478,Mildura
+Katandra West,3634,283,Greater
+Narre Warren,3805,161,Casey
+Somers,3927,534,Mornington
+Pascoe Vale South,3044,525,Moreland
+Rosanna,3084,66,Banyule
+Wantirna South,3152,367,Knox
+Strathmore,3041,506,Moonee
+Balwyn North,3104,111,Boroondara
+Mount Beauty,3699,11,Alpine
+East Coburg,3058,189,Darebin
+Newborough,3825,381,Latrobe
+Shepparton,3632,283,Greater
+Shepparton,3630,283,Greater
+Hamlyn Heights,3218,275,Greater
+Karingal Centre,3199,217,Frankston
+Selby,3159,745,Yarra
+Moorabbin,3189,231,Glen
+Ballarat North,3350,57,Ballarat
+Bandiana Milpo,3694,717,Wodonga
+Horsham,3402,319,Horsham
+Ringwood East,3135,441,Maroondah
+Lalor,3075,707,Whittlesea
+Bentleigh East,3165,231,Glen
+Blackburn North,3130,698,Whitehorse
+Oakleigh South,3167,497,Monash
+Box Hill North,3129,698,Whitehorse
+Ferntree Gully,3156,367,Knox
+Oak Park,3046,525,Moreland
+Sunshine North,3020,118,Brimbank
+Cheltenham,3192,343,Kingston
+Cranbourne South,3977,161,Casey
+Lake Gardens,3355,57,Ballarat
+East Preston,3072,189,Darebin
+North Geelong,3215,275,Greater
+Craigieburn,3064,327,Hume
+Frankston,3199,217,Frankston
+Braybrook,3019,433,Maribyrnong
+Bonbeach,3196,343,Kingston
+Springvale,3171,267,Greater
+Beaumaris,3193,91,Bayside
+Hamlyn Heights,3215,275,Greater
+Brentford Square,3131,698,Whitehorse
+Glenroy,3046,525,Moreland
+Avondale Heights,3034,506,Moonee
+Doncaster East,3109,421,Manningham
+Kerrimuir,3129,698,Whitehorse
+Heathmont,3135,441,Maroondah
+East Bentleigh,3165,231,Glen
+Watsonia,3087,66,Banyule
+Kingsbury,3083,189,Darebin
+Ardeer,3022,118,Brimbank
+Tullamarine,3043,327,Hume
+Park Orchards,3114,421,Manningham
+Bell Post Hill,3215,275,Greater
+Donvale,3111,421,Manningham
+Pinewood,3149,497,Monash
+Dallas,3047,327,Hume
+Keilor East,3033,506,Moonee
+Burnt Bridge,3136,441,Maroondah
+Forest Hill,3131,698,Whitehorse
+Lara,3212,275,Greater
+Ringwood,3134,441,Maroondah
+Viewbank,3084,66,Banyule
+Simpson,3266,183,Corangamite
+Invergordon,3636,490,Moira
+Mountain Gate,3156,367,Knox
+Boronia,3155,367,Knox
+Karingal,3199,217,Frankston
+Glen Waverley,3150,497,Monash
+Moorabbin,3189,91,Bayside
+Altona North,3025,311,Hobsons
+Burwood East,3151,698,Whitehorse
+Mooroolbark,3138,745,Yarra
+Pines Forest,3200,217,Frankston
+Broadmeadows,3047,327,Hume
+Geelong North,3215,275,Greater
+Churchill,3842,381,Latrobe
+Morwell,3840,381,Latrobe
+Bulleen,3105,421,Manningham
+Watsonia North,3087,66,Banyule
+Knoxfield,3180,367,Knox
+Doncaster,3108,421,Manningham
+Frankston South,3199,217,Frankston
+Rowville,3178,367,Knox
+Hoppers Crossing,3029,726,Wyndham
+Templestowe Lower,3107,421,Manningham
+"Karingal Centre P.O.,Frankston",3199,217,Frankston
+Gladstone Park,3043,327,Hume
+Vermont South,3133,698,Whitehorse
+Bundoora,3083,66,Banyule
+Deer Park,3023,118,Brimbank
+Campbellfield,3061,327,Hume
+Wheelers Hill,3150,497,Monash
+Wodonga,3690,717,Wodonga
+Belvedere Park Po Seaford,3198,217,Frankston
+Richmond,3121,735,Yarra
+Sunshine West,3020,118,Brimbank
+Falls Creek,3699,939,Unincorporated
+Dandenong North,3175,267,Greater
+Ashwood,3147,497,Monash
+Noble Park North,3174,267,Greater
+Whittington,3219,275,Greater
+Templestowe,3106,421,Manningham
+Capel Sound,3940,534,Mornington
+Endeavour Hills,3802,161,Casey
+West Wodonga,3690,717,Wodonga
+Bellfield,3081,66,Banyule
+Cobram,3644,490,Moira
+Brandon Park,3150,497,Monash
+Greensborough,3088,571,Nillumbik
+Hoppers Crossing Dc,3029,726,Wyndham
+Altona Meadows,3028,311,Hobsons
+Albanvale,3021,118,Brimbank
+Roxburgh Park,3064,327,Hume
+Patterson Lakes,3197,343,Kingston
+Chirnside Park,3116,745,Yarra
+Corinella,3984,74,Bass
+Redan,3350,57,Ballarat
+Melton West,3337,465,Melton
+Laverton,3028,311,Hobsons
+Meadow Heights,3048,327,Hume
+Loch Sport,3851,681,Wellington
+Moorabbin East,3189,231,Glen
+Croydon Hills,3136,441,Maroondah
+Taylors Lakes,3038,118,Brimbank
+Eltham North,3095,66,Banyule
+Kingsville,3012,433,Maribyrnong
+Blackburn South,3130,698,Whitehorse
+Epping,3076,707,Whittlesea
+Delahey,3037,118,Brimbank
+Aspendale Gardens,3195,343,Kingston
+Keilor Downs,3038,118,Brimbank
+Seabrook,3028,311,Hobsons
+Mildura,3502,478,Mildura
+Violet Town,3669,643,Strathbogie
+Pakenham,3810,145,Cardinia
+Cranbourne North,3977,161,Casey
+Derrinallum,3325,183,Corangamite
+Mortlake,3272,549,Moyne
+Branxholme,3302,626,Southern
+Mount Duneed,3217,275,Greater
+Grasmere,3281,549,Moyne
+Narrawong,3285,241,Glenelg
+Ballarat Mail Centre,3354,57,Ballarat
+Ballarat,3354,57,Ballarat
+Tempy,3489,763,Yarriambiack
+Rawson,3825,83,Baw
+Bundalaguah,3851,681,Wellington
+Lardner,3821,83,Baw
+Nayook,3832,83,Baw
+Nambrok,3847,681,Wellington
+Welshpool,3966,617,South
+Whitfield,3733,670,Wangaratta
+Greta South,3675,670,Wangaratta
+Everton,3678,670,Wangaratta
+Waaia,3637,490,Moira
+Nangiloc,3494,478,Mildura
+Sea Lake,3533,127,Buloke
+Harcourt,3453,543,Mount
+Beverford,3590,661,Swan
+Niddrie,3042,506,Moonee
+Toolern Vale,3337,465,Melton
+Box Hill South,3128,698,Whitehorse
+Meeniyan,3956,617,South
+Bayles,3981,145,Cardinia
+Dalyston,3992,74,Bass
+Waverley Gardens,3170,497,Monash
+Oakleigh East,3166,497,Monash
+Edenhope,3318,689,West
+Murrayville,3512,478,Mildura
+Hawkesdale,3287,549,Moyne
+Yallambie,3085,66,Banyule
+Woorinen South,3588,661,Swan
+Smythesdale,3351,249,Golden
+Gormandale,3873,681,Wellington
+Somerton,3062,327,Hume
+Newcomb,3219,275,Greater
+Nyah West,3595,661,Swan
+Narre Warren South,3805,161,Casey
+Cranbourne East,3977,161,Casey
+Hillside,3037,465,Melton
+Lynbrook,3975,161,Casey
+Doreen,3754,707,Whittlesea
+Tarneit,3029,726,Wyndham
+Caroline Springs,3023,465,Melton
+Truganina,3029,726,Wyndham
+Burnside,3023,465,Melton
+Lyndhurst,3975,161,Casey
+Keysborough,3173,267,Greater
+Springvale South,3172,267,Greater
+Nth Bendigo,3550,262,Greater
+Wyndham Vale,3024,726,Wyndham
+Jacana,3047,327,Hume
+Clyde North,3978,161,Casey
+Southbank,3006,590,Port
+Cranbourne West,3977,161,Casey
+Armstrong Creek,3217,275,Greater
+Aireys Inlet,3231,649,Surf
+Colac,3249,175,Colac-Otway
+Apollo Bay,3233,175,Colac-Otway
+Boisdale,3860,681,Wellington
+Cohuna,3568,225,Gannawarra
+Dunkeld,3294,626,Southern
+Dingee,3571,394,Loddon
+Foster,3960,617,South
+Goroke,3412,689,West
+Heywood,3304,241,Glenelg
+Tangambalanga,3691,335,Indigo
+Lavers Hill,3238,175,Colac-Otway
+Lockington,3563,137,Campaspe
+Manangatang,3546,661,Swan
+Terang,3264,183,Corangamite
+Merino,3310,241,Glenelg
+Rushworth,3612,137,Campaspe
+Macleod,3085,66,Banyule
+Poowong,3988,617,South
+Port Fairy,3284,549,Moyne
+Red Hill,3937,534,Mornington
+Tongala,3621,137,Campaspe
+Werrimull,3496,478,Mildura
+Camperdown,3260,183,Corangamite
+Timboon,3268,183,Corangamite
+Wedderburn,3518,394,Loddon
+Mont Albert North,3129,698,Whitehorse
+Wollert,3750,707,Whittlesea
+Northland,3072,189,Darebin
+Southbank,3006,460,Melbourne
+Box Hill,3128,698,Whitehorse
+East Geelong,3219,275,Greater
+Flemington,3031,460,Melbourne
+Kyabram,3619,137,Campaspe
+Lorne P-12 College,3232,649,Surf
+Maribyrnong,3032,433,Maribyrnong
+South Yarra,3141,635,Stonnington
+Mckinnon,3204,231,Glen
+Melbourne,3004,590,Port
+Ouyen,3490,478,Mildura
+Princes Hill,3054,735,Yarra
+Rainbow,3424,298,Hindmarsh
+Robinvale,3549,661,Swan
+Brunswick,3056,525,Moreland
+Parkville,3052,460,Melbourne
+Somerton Bc Somerton,3062,327,Hume
+Ballarat East,3354,57,Ballarat
+Caulfield East,3145,231,Glen
+Morwell Bc,3841,381,Latrobe
+Collingwood,3066,735,Yarra
+Fraser Rise,3336,465,Melton
+Frankston North,3200,217,Frankston
+Charlton,3525,127,Buloke
+Wycheproof,3527,127,Buloke
+Birchip,3483,127,Buloke
+Nhill,3418,298,Hindmarsh
+Robinson,3019,433,Maribyrnong
+Kaniva,3419,689,West
+Corryong,3707,667,Towong
+Maryborough,3465,167,Central
+Monash University,3800,497,Monash
+Balmoral,3407,626,Southern
+Myrtleford,3736,11,Alpine
+Boort,3537,394,Loddon
+Yarrawonga,3730,490,Moira
+Seymour,3661,485,Mitchell
+Merbein,3505,478,Mildura
+Macleod West,3085,189,Darebin
+St. Albans,3021,118,Brimbank
+Swifts Creek,3896,211,East
+Corio,3214,275,Greater
+Hopetoun,3396,763,Yarriambiack
+Doveton,3177,161,Casey
+Benalla,3672,101,Benalla
+Melbourne,3004,460,Melbourne
+Glen Iris,3146,635,Stonnington
+West Melbourne,3003,460,Melbourne
+Ballarat West,3350,57,Ballarat
+Ballarat East,3350,57,Ballarat
+Elsternwick,3185,231,Glen
+Wangaratta,3677,670,Wangaratta
+St Kilda East,3183,590,Port
+Bendigo,3550,262,Greater
+Morwell,3841,381,Latrobe
+Seymour,3660,485,Mitchell
+Tarrington,3301,626,Southern
+Dunnstown,3352,515,Moorabool
+Echuca West,3564,137,Campaspe
+Portland South,3305,241,Glenelg
+Kyabram,3620,137,Campaspe
+Quarry Hill,3550,262,Greater
+Brunswick North,3056,525,Moreland
+Werribee,3030,311,Hobsons
+Alphington,3078,189,Darebin
+Mt Eliza,3930,534,Mornington
+Coragulac,3249,175,Colac-Otway
+Dennington,3280,673,Warrnambool
+Caulfield,3161,231,Glen
+Prahran East,3181,635,Stonnington
+Myrtleford,3737,11,Alpine
+Deepdene/Balwyn,3103,111,Boroondara
+Sale,3853,681,Wellington
+Camberwell East,3124,111,Boroondara
+Preston West,3072,189,Darebin
+Preston East,3073,189,Darebin
+Coburg East,3058,525,Moreland
+Clarkes Hill,3352,515,Moorabool
+Chadstone,3148,497,Monash
+Ivanhoe North,3079,66,Banyule
+Highett,3190,91,Bayside
+Nunawading,3131,698,Whitehorse
+Thornbury East,3071,189,Darebin
+Heidelberg West,3081,66,Banyule
+Herne Hill,3218,275,Greater
+Kennington,3550,262,Greater
+Shepparton South,3630,283,Greater
+Morwell East,3840,381,Latrobe
+Reservoir East,3073,189,Darebin
+Aberfeldie,3040,506,Moonee
+Bennettswood,3125,698,Whitehorse
+Parkdale East,3195,343,Kingston
+Fawkner North,3060,525,Moreland
+Belgrave,3160,745,Yarra
+Warrnambool West,3280,673,Warrnambool
+Airport West,3042,506,Moonee
+Eliminyt,3250,175,Colac-Otway
+Balwyn,3101,111,Boroondara
+Hadfield,3046,525,Moreland
+Frankston East,3199,217,Frankston
+Warrnambool East,3280,673,Warrnambool
+Wodonga West,3690,717,Wodonga
+Bendigo North,3550,262,Greater
+Dingley,3172,343,Kingston
+Darling South,3145,635,Stonnington
+St Albans South,3021,118,Brimbank
+Thomastown East,3074,707,Whittlesea
+Taylors Hill,3037,465,Melton
+Thomastown West,3074,707,Whittlesea
+Kealba,3021,118,Brimbank
+Reservoir North,3073,189,Darebin
+Kings Park,3021,118,Brimbank
+St Helena,3088,66,Banyule
+Vermont,3133,367,Knox
+Greensborough North,3088,571,Nillumbik
+Sunshine South West,3020,118,Brimbank
+Geelong,3221,275,Greater
+Traralgon West,3844,381,Latrobe
+Rhyll,3923,74,Bass
+Hoppers Crossing North,3029,726,Wyndham
+Wonga Park,3115,441,Maroondah
+Lalor West,3075,707,Whittlesea
+Belgrave Heights,3160,745,Yarra
+Knox City Centre,3152,367,Knox
+Leneva,3691,717,Wodonga
+Delacombe,3356,57,Ballarat
+Dallas,3048,327,Hume
+Wodonga West,3689,717,Wodonga
+Werribee North,3030,726,Wyndham
+Glenroy,3046,327,Hume
+Geelong,3215,275,Greater
+Bundoora,3083,189,Darebin
+Tynong,3813,145,Cardinia
+Freshwater Creek,3216,649,Surf
+Melbourne,3000,460,Melbourne
+Campbellfield,3061,707,Whittlesea
+Lovely Banks,3221,275,Greater
+Richmond,3121,267,Greater
+Shepparton North,3631,283,Greater
+Richmond North,3121,735,Yarra
+Mt Martha,3934,534,Mornington
+North Fitzroy,3068,735,Yarra
+Daylesford,3461,291,Hepburn
+Langwarrin South,3911,217,Frankston
+Derrimut,3026,118,Brimbank
+Bangholme,3175,267,Greater
+Koonwarra,3954,617,South
+Epping North,3076,707,Whittlesea
+Werribee Plaza,3030,726,Wyndham
+Truganina South,3029,726,Wyndham
+Richmond,3121,460,Melbourne
+Koonwarra,3954,74,Bass
+Rosebud West,3939,534,Mornington
+Fitzroy,3065,217,Frankston
