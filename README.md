@@ -29,11 +29,17 @@ Victorian Government Data Directory
 
 ### Findings & Conclusion & Implications
 #### Before Covid (September 2018 - January 2020)
-The top 3 LGAs are: Stonnington (1), Bayside (2), Monash (3)
-Hospitals : 8% of the house price can be explained by the number of hospitals
-Schools : The more schools there are, the higher the total number of sales is in a Local Government area.
+- The top 3 LGAs are: Stonnington (1), Bayside (2), Monash (3)
+- Hospitals : 8% of the house price can be explained by the number of hospitals
+- Schools : The more schools there are, the higher the total number of sales is in a Local Government area.
 
 #### After Covid (February - July 2020)
-Stonnington : 23% (Most Covid cases in April, second most in May until mid June)
-Bayside : + 3.6% (Next to Stonnington, with an average number of Covid cases)
-Monash : 9.9% (Top 5 Covid cases in early April, top 15 Covid cases until mid June)
+- Stonnington : 23% (Most Covid cases in April, second most in May until mid June)
+- Bayside : + 3.6% (Next to Stonnington, with an average number of Covid cases)
+- Monash : 9.9% (Top 5 Covid cases in early April, top 15 Covid cases until mid June)
+
+### Notebooks
+- property_pre_covid_analysis.ipynb: analysis of change in house price per LGA before Feb 2020
+- property_during_covid_analysis.ipynb: analysis of number of properties sold per LGA after Feb to July 2020
+- hospitals_analysis.ipynb: analysis of house price vs hospital count per LGA
+- schools_analysis.ipynb: analysis of house price vs schools count per LGA
